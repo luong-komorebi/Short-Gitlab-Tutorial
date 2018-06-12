@@ -24,7 +24,7 @@ This dashboard is not similar to Github in UI, but the functionalities are prett
 Some differences that should be noticed is:  
 - **Pull request** => **Merge request** and displayed with this ![](pr_icon.png) icon.
 - **Organisations** => **Group** as showned in ![](group.png) 
-- **Gits** => **Snippets** 
+- **Gist** => **Snippets** 
 
 ## Create your first new project  
 While there are not much options for creating a new project(repository) on Github, there are a bunch of options to choose from, notably: 
@@ -49,7 +49,7 @@ There are some important points to notice on this screen:
 1. **SSH key** - You have to set up one before you can push to Gitlab for security reason. (Gitlab uses SSH while Github uses HTTPs by default). It's easy and both Github and Gitlab provides a [guide](https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair) to do it.  
 2. **CI/CD and Operations** - Gitlab has these built in by default. Skip the following part if you don't care or never used CI/CD while in Github.  
   - If you are using one CI/CD system on Github (*like Travis, CircleCI, .etc*) this is pretty much the same. Builds are defined in a `.yml` file and Gitlab has a specific [guide](https://gitlab.com/help/ci/quick_start/README) on this.  
-  - Operations are you integrate your app with Kubernetes (*via Google Cloud Platform*) so that deployments can be done automatically and environmentally-wise. Gitlab also got a [guide](https://gitlab.com/help/user/project/clusters/index) for this.  
+  - Operations are for you to integrate your app with Kubernetes (*via Google Cloud Platform*) so that deployments can be done automatically and environmentally-wise. Gitlab also got a [guide](https://gitlab.com/help/user/project/clusters/index) for this.  
   - AFAIK, Gitlab doesn't receive support from Travis/CircleCI on their platform. Some other CI services like Atlassian Bamboo or DroneCI works.
 3. **Registry** - Again, I am not sure if you ever worked with containers, but if you know what DockerHub or Amazon ECR is, this one is the Gitlab version of them.  
 
