@@ -30,7 +30,7 @@ Some differences that should be noticed are:
 While there are not many options for creating new projects (=repositories) on Github, there are a bunch of options to choose from, notably: 
 
 #### Blank project 
-You get three **levels of visibility**. Aside from the regularly seen **private** and **public**, they offer **internal**, which openess is limited to logged in user only.
+You get three **levels of visibility**. Aside from the regularly seen **private** and **public**, they offer **internal**, which openness is limited to logged in user only.
 #### Create from a template
 Gitlab offers **Ruby on Rails, Spring and NodeJS Express** templates to start with. 
 #### Import project from other services.
@@ -81,12 +81,12 @@ But I believe it's not too hard to get familiar with. If you spend 15 seconds on
 ![](contributors.png)  
 - The equivalent of Github's Project is inside `Issues`. For example:  
 ![](project.png)  
-- To view the project's programming language, you head into `Repository>Charts`, which is one more click away than on Github.
+- To view the project's programming language, you head into `Repository > Charts`, which is one more click away than on Github.
 ![](language.png)  
   
 Everything else works just like Github or with some supplements (for example: subscribe to issues via RSS).
 
-The contribution flow is also the same : Fork > Edit > New Merge Request  
+The contribution flow is also the same : `Fork > Edit > New Merge Request`
 ![](openPR.gif) 
 
 ## Summary  
