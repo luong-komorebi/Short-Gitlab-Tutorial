@@ -72,7 +72,7 @@ Yeah I do hide a lot of the powers that Gitlab gives us. If you feel curious, he
 I bet you will feel overwhelmed when seeing other projects's page for the first time. 
 ![](other-project.png)
 
-This is a perfect example for a project host on Gitlab: Gitlab itself. From the screenshot, you can criticise them for poluting your mind with buttons, titles, buttons. It would be a total difference if you look at this https://github.com/gitlabhq/gitlabhq then come back to Gitlab's page.  
+This is a perfect example for a project hosted on Gitlab: Gitlab itself. From the screenshot, you can criticise them for poluting your mind with buttons, titles, buttons. It would be a total difference if you look at this https://github.com/gitlabhq/gitlabhq then come back to Gitlab's page.  
 But I believe it's not too hard to get familiar with. If you spend 15 seconds on this page, you will get the idea of what's going on. I just want to list out things that you might not see in that 15 seconds:
 - Issues and Merge Requests are moved to the sidebar
 - To create a pull request or issue you click that `+` button beside the `global` button, which is equivalent to `watch` on Github.(*but with more options*)
