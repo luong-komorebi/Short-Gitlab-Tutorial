@@ -1,10 +1,14 @@
-# How to migrate from Github to Gitlab  
+# A Short Gitlab Tutorial
 
-First of all, I don't want to start a war between Github and Gitlab here. I don't care about the ethics of using Github nor the news that Microsoft bought Github recently. I write this guide for one obvious reason: **I want to migrate to Gitlab and I want to help people in the same situation because the workflow seems a little bit different over there.**
+![](gitlab.png)
 
-It's gonna be concise (and maybe informal sometimes) so that you can kick off as soon as possible. In this guide, I am gonna assume that you are a basic Github user familiar with terms like Repo, Star, Pull Request... but not familiar with Github Enterprise or other "advanced" features of Github. 
+First of all, I don't want to start a war between Github and Gitlab here. I don't care about the ethics of using Github nor the news that Microsoft bought Github recently. I write this guide for one obvious reason: **I want to migrate to Gitlab and help people in the same situation because thing seems a little bit different over there.**  
 
-**Yes, I am utterly targeting open source contributors** *and those of you who are too lazy to sign up for a Gitlab account to try it out*.  
+Secondly, I am not affiliated with Gitlab.  
+
+Thirdly, I am utterly targeting **open source contributors** *and those of you who are too lazy to sign up for a Gitlab account to try it out*.  
+
+It's gonna be concise (and maybe informal sometimes) so that you can kick off as soon as possible. In this guide, I am gonna assume that you are a basic Github user familiar with terms like Repo, Star, Pull Request... but not familiar with Github Enterprise or other "advanced" features of Github.  
 
 > If you consider yourself highly mature in either of these platforms, this may not expose you to any new facts.(*although I would really appreciate your reading and reviewing it*)
 
@@ -83,4 +87,8 @@ But I believe it's not too hard to get familiar with. If you spend 15 seconds on
 Everything else works just like Github or with some supplements (for example: subscribe to issues via RSS).
 
 The contribution flow is also the same : Fork > Edit > New Merge Request  
-![](openPR.gif)
+![](openPR.gif) 
+
+## Summary  
+
+By now, you must have been aware of how things work the Gitlab way and what Gitlab has to offer. I really hope that this ease your way to Gitlab without hiding too much Gitlab power. Gitlab itself has cool things to be discovered, not just a mirror for other services like Github :).
