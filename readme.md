@@ -23,14 +23,14 @@ This dashboard is not similar to Github in UI, but the functionalities are prett
 
 Some differences that should be noticed are:  
 - **Pull request** => **Merge request** and displayed with this ![](pr_icon.png) icon.
-- **Organisations** => **Group** as showned in ![](group.png) 
+- **Organisations** => **Group** as shown in ![](group.png) 
 - **Gist** => **Snippets** 
 
 ## Create your first new project  
 While there are not many options for creating new projects (=repositories) on Github, Gitlab has a bunch of options to choose from, notably: 
 
 #### Blank project 
-You get three **levels of visibility**. Aside from the regularly seen **private** and **public**, they offer **internal**, which openness is limited to logged in user only.
+You get three **levels of visibility**. Aside from the regularly seen **private** and **public**, they offer **internal**, of which openness is limited to logged in user only.
 #### Create from a template
 Gitlab offers **Ruby on Rails, Spring and NodeJS Express** templates to start with. 
 #### Import project from other services.
@@ -77,7 +77,7 @@ But I believe it's not too hard to get familiar with. If you spend 15 seconds on
 - Issues and Merge Requests are moved to the sidebar
 - To create a pull request or issue you click the `+` button on the left side of the `global` button, which is equivalent to `watch` on Github (*but with more options*).
 - Commits are inside the `history` button.
-- The equivalent of Github's Insight is inside `Repostiory`. For example:  
+- The equivalent of Github's Insight is inside `Repository`. For example:  
 ![](contributors.png)  
 - The equivalent of Github's Project is inside `Issues`. For example:  
 ![](project.png)  
