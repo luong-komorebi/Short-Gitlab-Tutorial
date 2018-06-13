@@ -27,7 +27,7 @@ Some differences that should be noticed are:
 - **Gist** => **Snippets** 
 
 ## Create your first new project  
-While there are not many options for creating new projects (=repositories) on Github, there are a bunch of options to choose from, notably: 
+While there are not many options for creating new projects (=repositories) on Github, Gitlab has a bunch of options to choose from, notably: 
 
 #### Blank project 
 You get three **levels of visibility**. Aside from the regularly seen **private** and **public**, they offer **internal**, which openness is limited to logged in user only.
