@@ -1,6 +1,6 @@
 # A Short Gitlab Tutorial
 
-![](gitlab.png)
+![](gitlab.svg)
 
 First of all, I don't want to start a war between Github and Gitlab here. I do neither care about the ethics of using Github nor the news that Microsoft bought Github recently. I wrote this guide for one obvious reason: **I want to migrate to Gitlab and help people in the same situation because thing seems a little bit different over there.**  
 
